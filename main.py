@@ -24,5 +24,5 @@ def listar_primos(lista):
 
 print(lista_numeros)
 print(listar_primos(lista_numeros))
-  
+
   
